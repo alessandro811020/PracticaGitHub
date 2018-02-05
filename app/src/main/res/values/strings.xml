@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Practica GitHub</string>
+    <string name="texto_bienvenida">Texto Cambiado</string>
 </resources>
