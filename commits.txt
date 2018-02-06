@@ -1,0 +1,11 @@
+commit 63414d9e5403095b535be3c3df3eb764e748f421
+Author: Alessandro <alejandro811020@gmail.com>
+Date:   Mon Feb 5 15:21:32 2018 +0100
+
+    Se modifico el texto de inicio
+
+commit 691f6a73f3975a95446c3fffdfbabf19fe262564
+Author: Alessandro <alejandro811020@gmail.com>
+Date:   Mon Feb 5 15:14:58 2018 +0100
+
+    Inicio del proyecto
